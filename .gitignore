@@ -6,5 +6,12 @@
 *.ear
 hs_err_pid*
 
-.idea/*
+.idea/*.xml
 *.iml
+.idea/compiler.xml
+.idea/copyright/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+drizzleIM.iml
